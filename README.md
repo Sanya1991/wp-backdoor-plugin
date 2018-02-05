@@ -1,6 +1,6 @@
-#Wordpress Backdoor plugin#
+# Wordpress Backdoor plugin #
 
-Install the *wp-backdoor.zip* on the wp admin site.
+Install the **wp-backdoor.zip** on the wp admin site.
 
 URL: _http://wp/wp-content/plugins/wp-backdoor/wp-backdoor.php?cmd=COMMAND_
 
